@@ -11,3 +11,4 @@
 
 三级目录完成，有收缩动效，动效参考官方过渡效果transition<br>
 [项目地址](https://github.com/gitNYB/Menu_vue)
+![项目截图](https://github.com/gitNYB/Menu_vue/blob/master/public/20170410171955.png)
